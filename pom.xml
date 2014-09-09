@@ -29,5 +29,20 @@
             <artifactId>netty-all</artifactId>
             <version>4.0.16.Final</version>
         </dependency>
+
+        <!-- Jetty -->
+        <dependency>
+            <groupId>org.eclipse.jetty.aggregate</groupId>
+            <artifactId>jetty-all</artifactId>
+            <version>9.2.2.v20140723</version>
+        </dependency>
+
+        <!-- Hessian -->
+        <dependency>
+            <groupId>com.caucho</groupId>
+            <artifactId>hessian</artifactId>
+            <version>4.0.38</version>
+        </dependency>
+
     </dependencies>
 </project>
